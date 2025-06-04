@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Wokgemüse mit Tofu in Kokossoße"
 image: wokgemuese_tofu_wok.jpg
-tags: Low-Carb, Tofu, Vegan, Mittagessen
+tags: Low-Carb, Tofu, Vegan, Mittagessen, Wok
 
 ingredients:
 - Speiseöl

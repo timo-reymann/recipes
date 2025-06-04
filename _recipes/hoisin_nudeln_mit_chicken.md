@@ -2,7 +2,7 @@
 layout: recipe
 title: Hoisin-Nudeln mit Chicken und Gemüse
 image: hoisin_nudeln_chicken.jpg
-tags: Nudeln, Mittagessen, Hühnchen, Chicken
+tags: Nudeln, Mittagessen, Hühnchen, Chicken, Wok
 
 ingredients:
 - 4 El Hoisin
