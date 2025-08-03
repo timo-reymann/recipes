@@ -13,12 +13,19 @@ ingredients:
   - 4 EL Tomatenmark
   - Olivenöl
   - Rostzwiebeln
+  - Pfeffer
+  - geräuchte Paprikapulver
+  - Käse
 
 directions:
+  - Pasta al dente kochen lassen
   - Hackfleisch anbraten
   - Tomatenmark dazugeben und mit anbraten
-  - Pesto und Tomatenmark dazugeben und gut unterheben
+  - Pesto und passierte Tomaten dazugeben und gut unterheben
   - Alles kurz aufkochen lassen
+  - Mit Pfeffer und Paprikapulver abschmecken
   - Thunfisch aus der Dose dazugeben
-  - Mit Rostzwiebeln garnieren und servieren
+  - Röstzwiebeln und dazugeben
+  - Warten bis der Käse geschmolzen ist
+  - Alles gut vermengen und Pasta unterheben
 ---
