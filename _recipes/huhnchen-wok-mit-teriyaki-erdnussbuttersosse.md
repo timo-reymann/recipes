@@ -4,21 +4,21 @@ title: Hühnchen-Wok mit Teriyaki-Erdnussbuttersoße
 image: huenhnchen-wok-mit-teriyaki-erdnussbuttersosse.jpg
 
 ingredients:
-  -500 g Hähnchenbrust
-  -100 g Sojasprosse
-  -50 ml Teriyaki-Soße
-  -150 g Reis
-  -2 EL Mais
-  -1 Peperoni
-  -1 EL Erdnussbutter
-  -1 Frühlingszwiebel
-  -1 TL Zucker
-  - Koriander
-  - Curry
-  - Kreuzkümmel
-  - Kurkuma
-  - Paprikapulver
-  -1  Salz
+  - 500 g Hähnchenbrust
+  - 100 g Sojasprosse
+  - 50 ml Teriyaki-Soße
+  - 150 g Reis
+  - 2 EL Mais
+  - 1 Peperoni
+  - 1 EL Erdnussbutter
+  - 1 Frühlingszwiebel
+  - 1 TL Zucker
+  -  Koriander
+  -  Curry
+  -  Kreuzkümmel
+  -  Kurkuma
+  -  Paprikapulver
+  - 1  Salz
 
 
 directions:
