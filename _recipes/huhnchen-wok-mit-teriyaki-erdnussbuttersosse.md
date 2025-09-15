@@ -1,8 +1,6 @@
 ---
 layout: recipe
-title: Hühnchen-Wok mit Teriyaki-Erdnussbuttersoße
-image: images/huhnchen-wok-mit-teriyaki-erdnussbuttersosse.webp
-tags: Asiatisch, Wok
+title: Hühnchen-Wok mit Teriyaki-Erdnussbuttersoßeimage: images/huhnchen-wok-mit-teriyaki-erdnussbuttersosse.webptags: Asiatisch, Wok
 
 ingredients:
   -  500 g Hähnchenbrust
