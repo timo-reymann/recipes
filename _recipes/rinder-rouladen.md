@@ -2,7 +2,7 @@
 layout: recipe
 title: Rinderrouladen
 image: rinder-rouladen.jpg
-tags: Mittagessen, Rindfleisch
+tags: Rindfleisch
 
 ingredients:
 - 8 Rinderrouladen

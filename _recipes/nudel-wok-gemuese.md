@@ -2,19 +2,19 @@
 layout: recipe
 title: Nudel-Wok-Gemüse
 image: nudel-wok-gemuese.jpg
-tags: Wok, Nudeln, Mittagessen
+tags: Wok,Nudeln,Asiatisch
 
 ingredients:
-- 1 rote Zwiebel
-- 1 Zitrone
+- 150g Putenbrust
 - 100g Spaghetti
 - 100g Mais
 - 100g Sojasproßen
+- 1 rote Zwiebel
+- 1 Zitrone
 - 2 EL Sojasoße
 - 1 Paprika-Schote
 - 1/4 Zucchini
 - 2 Eier
-- 150g Putenbrust
 - 2cm Ingwer
 - Koriander
 - Pfeffer

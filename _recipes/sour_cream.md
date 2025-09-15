@@ -2,18 +2,18 @@
 layout: recipe
 title:  "Sour Cream"
 image: sour_cream.jpg
-tags: Mittagessen, Dips, Snacks
+tags: Dips,Snacks
 
 ingredients:
 - 200g Magerquark
 - 200g Schmand
 - 2-3 EL Joghurt
 - 1 kleine Zwiebel
-- Schnittlauch/Dill je nach Geschmack
 - 1 EL Zucker
 - 1 EL Salz
 - 1 Prise Pfeffer
-- etwas Muskatnuss
+- Schnittlauch (oder Dill je nach Geschmack)
+- Muskatnuss
 
 directions:
 - Wiebel klein hacken

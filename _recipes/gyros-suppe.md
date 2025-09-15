@@ -2,17 +2,17 @@
 layout: recipe
 title:  "Gyros-Suppe"
 image: gyros-suppe.jpg
-tags: Low-Carb, Fleisch, Mittagessen
+tags: Low-Carb,Fleisch,Schwein
 
 ingredients:
 - 600g Schweineschnitzel
+- 600ml Gemüsebrühe
 - 2 Paprikas
 - 1 Zwiebel
 - 1 Knoblauchzehe
 - 10g Petersilie
 - 2 EL Öl
 - 1 Becher Schlagsahne
-- 600ml Gemüsebrühe
 - Salz
 - Pfeffer
 - Oregano

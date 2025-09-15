@@ -2,9 +2,12 @@
 layout: recipe
 title: Gulasch nach ungarischer Art
 image: gulasch-ungarischer-art.jpeg
-tags: Gulasch,Paprika,Mittagessen
+tags: Gulasch,Paprika,Ungarisch
 
 ingredients:
+  - 800g Spätzle
+  - 400g Gulaschwürfel vom Rind
+  - 200ml Gemüsebrühe
   - 6 Spitzpaprika
   - 1 Zwiebel
   - 1 TL Mehl
@@ -13,9 +16,6 @@ ingredients:
   - 2 TL Paprikapulver
   - 2 TL Zucker
   - Pfeffer
-  - 200ml Gemüsebrühe
-  - 400g Gulaschwürfel vom Rind
-  - 800g Spätzle
 
 directions:
   - Zwiebeln in kleine Würfel schneiden

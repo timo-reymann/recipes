@@ -2,9 +2,10 @@
 layout: recipe
 title: Thai-Curry
 image: thai-curry.jpeg
-tags: Mittagessen, Hühnchen
+tags: Hühnchen,Asiatisch
 
 ingredients:
+- 100g Basmati-Reis
 - 3 EL Öl
 - 50g gelbe Thai-Curry-Paste
 - 1 rote Zwiebel
@@ -14,7 +15,6 @@ ingredients:
 - 250ml Kokosmilch
 - 1 TL Chilliflocken
 - Koriander
-- Basmati-Reis
 
 directions:
 - Zwiebeln in Scheiben schneiden

@@ -2,20 +2,20 @@
 layout: recipe
 title:  "Jägerschnitzel"
 image: jaegerschnitzel.jpg
-tags: Mittagessen, Schnitzel
+tags: Schnitzel,Schwein
 
 ingredients:
+- 4 Schweineschnitzel
+- 250g Pilze
+- 200ml Brühe
+- 300ml Rahmsoße
+- 50ml Sahne
 - Muskatnuss
 - Pfeffer
 - Salz
 - Paprikapulver
-- 4 Schweineschnitzel
-- 250g Pilze
 - 4 EL Butter
 - 1 TL Honig
-- 200ml Brühe
-- 300ml Rahmsoße
-- 50ml Sahne
 
 directions:
 - Butter in der Pfanne erhitzen

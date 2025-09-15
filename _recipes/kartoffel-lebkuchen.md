@@ -3,18 +3,18 @@ layout: recipe
 title:  "Kartoffel Lebkuchen"
 image: kartoffel-lebkuchen.jpg
 imagecredit: https://www.flickr.com/photos/92734975@N00/6491094661
-tags: Backen, Weihnachtsgebäck, Lebkuchen
+tags: Backen,Weihnachtsgebäck,Lebkuchen
 
 ingredients:
 - 4 Eier
 - 350g Zucker
-- 60g Zitronat, fein gehackt
-- 60g Orangenat, fein gehackt
+- 60g Zitronat (fein gehackt)
+- 60g Orangenat (fein gehackt)
 - 250g Haselnüsse (halb gemahlen + gehackt)
 - 250g Mandeln (halb gemahlen + gehackt)
 - 2 EL Zimt
 - 1 TL Nelken
-- 250g kalt geriebene, gekochte Kartoffeln
+- 250g Kartoffeln (kalt geriebene, gekochte)
 - 250g Vollkornmehl
 - 1 Päckchen Backpulver
 - Lebkuchenoblaten (optional)

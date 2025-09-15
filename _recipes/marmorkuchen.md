@@ -3,19 +3,19 @@ layout: recipe
 title:  "Marmorkuchen"
 image: marmorkuchen.jpg
 imagecredit: https://www.flickr.com/photos/18823738@N00/6591253157
-tags: Backen, Kuchen
+tags: Backen,Kuchen
 
 ingredients:
+- 500g Mehl
 - 250g Butter
 - 250g Zucker
+- 125ml Milch
 - 1 Päckchen Vanillezucker
 - 4 Eier
-- 500g Mehl
 - 1 Päckchen Backpulver
-- 125ml Milch
 - 3 EL Kakao
 - 2 EL Zucker
-- Fett für die Form
+- Butter (für die Form)
 
 directions:
 - Aus Butter, Zucker, Mehl und Milch einen Teig rühren

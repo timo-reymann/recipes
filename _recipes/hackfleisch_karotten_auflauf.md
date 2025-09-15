@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Hackfleischauflauf mit Karotten"
 image: hackfleischauflauf-karotten.jpg
-tags: Low-Carb, Hackfleisch, Mittagessen
+tags: Low-Carb,Hackfleisch,Auflauf
 
 ingredients:
 - 5 Karotten

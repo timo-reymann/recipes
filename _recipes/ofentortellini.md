@@ -2,12 +2,12 @@
 layout: recipe
 title:  "Ofentortellini"
 image: tortellini.jpg
-tags: Mittagessen, Tortellini, Auflauf
+tags: Tortellini,Auflauf
 
 ingredients:
 - 250g Tortellini
 - 100g Schinken
-- 1 kleine Zwiebel
+- 1 Zwiebel
 - 200g Gratinkäse
 - 150ml Milch
 - 200ml Sahne

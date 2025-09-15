@@ -2,12 +2,12 @@
 layout: recipe
 title:  "Vanille Kipferl"
 image: vanille-kipferl.jpg
-tags: Backen, Weihnachtsgebäck, Gebäck
+tags: Backen,Weihnachtsgebäck,Gebäck
 
 ingredients:
 - 200g Magarine
 - 100g Zucker
-- halbe Vanilleschote oder 1 Päckchen Vanillezucker
+- 1 Päckchen Vanillezucker
 - 100g Mandeln
 - 250g Mehl
 - Puderzucker

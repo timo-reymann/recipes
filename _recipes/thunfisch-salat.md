@@ -5,8 +5,6 @@ image: thunfisch-salat.jpg
 tags: Low-Carb, Omlette, Mittagessen, Salat
 
 ingredients:
-- Salz
-- Pfeffer
 - 1/2 TL Chilli
 - 150g Thunfisch (eigener Saft aus der Dose)
 - 100g Mais
@@ -18,6 +16,8 @@ ingredients:
 - 10g Petersilie
 - 3 EL Joghurt
 - 1 EL Ketchup
+- Salz
+- Pfeffer
 
 directions:
 - Eier ca. 7 Minuten hart kochen lassen

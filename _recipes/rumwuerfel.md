@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Rumwürfel"
 image: rumwuerfel.jpg
-tags: Backen, Blechkuchen
+tags: Backen,Blechkuchen
 
 ingredients:
 - 250g Zucker

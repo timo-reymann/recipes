@@ -3,15 +3,15 @@ layout: recipe
 title:  "Lasagne"
 image: lasagne.jpg
 imagecredit: https://www.flickr.com/photos/22722986@N08/5392425495
-tags: Mittagessen, Hackfleisch
+tags: Hackfleisch
 
 ingredients:
-- 200/300g geriebener Käse
+- 800g geschälte Tomaten
 - 500g Hackfleisch
+- 300g Lasagneplatten
+- 200/300g geriebener Käse
 - 1 Zwiebel
 - 2 EL Tomatenmark
-- 800g geschälte Tomaten
-- 300g Lasagneplatten
 - 1/2 Liter Milch
 - 30g Butter
 - 40 g Mehl

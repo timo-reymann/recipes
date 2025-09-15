@@ -3,19 +3,19 @@ layout: recipe
 title:  "Amerikaner"
 image: amerikaner.jpg
 imagecredit: https://www.flickr.com/photos/38048973@N07/6861929162
-tags: Backen, Gebäck
+tags: Backen,Gebäck
 
 ingredients:
+- 500g Mehl
+- 250g Puderzucker
 - 125g Butter
 - 175g Zucker
-- 3 Eier
-- 1 Prise Salz
+- 1 Päckchen Backpulver
 - 250ml Milch
-- 500g Mehl
-- Päckchen Backpulver
-- 250g Puderzucker
-- 1 EL Rum
+- 3 Eier
 - 3-4 EL heißes Wasser
+- 1 Prise Salz
+- 1 EL Rum
 
 directions:
 - Butter, Zucker, Eier und Salz zusammen rühren

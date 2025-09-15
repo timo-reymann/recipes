@@ -3,12 +3,13 @@ layout: recipe
 title:  "Schwedische Köttbullar"
 image: koettbullar.jpg
 imagecredit: https://www.lecker.de/schwedische-koettbullar-48226.html
-tags: Mittagessen, Hackfleisch
+tags: Hackfleisch;Schwedisch
 
 ingredients:
+- 375g Hackfleisch
+- 400g Kartoffeln
 - 2 Zwiebeln
 - 1 EL Butter
-- 375g Hackfleisch
 - 1 Ei
 - 2 EL Paniermehl
 - 4 EL Milch
@@ -18,7 +19,6 @@ ingredients:
 - 150g Sahne
 - 2 EL Soßenbinder (alternativ geht auch Rahmsoßenpulver o. ä.)
 - Preiselbeeren aus dem Glas
-- 400g Kartoffeln
 
 directions:
 - Kartoffeln schälen, waschen und neben bei weich kochen lassen

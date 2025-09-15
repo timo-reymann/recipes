@@ -2,20 +2,20 @@
 layout: recipe
 title:  "Hähnchen mit Paprikasoße und Zucchini-Gemüse"
 image: haehnchen-paprikasossse-zucchini.jpg
-tags: Low Carb, Hühnchen, Mittagessen
+tags: Low Carb,Hühnchen
 
 ingredients:
-- Öl zum anbraten
+- 300g Hähnchen (am besten als Schnitzel)
+- 100ml Gemüsebrühe
+- 1 Zucchini
+- 1/2 Zwiebel
+- 2 Tomaten
+- 1 Paprika
+- 10g Knoblauch (Pulver oder Zehe gepresst)
 - Pfeffer
 - Salz
 - Paprika
-- 100ml Gemüsebrühe
-- 10g Knoblauch (Pulver oder Zehe gepresst)
-- 1/2 Zwiebel
-- 1 Paprika
-- 2 Tomaten
-- 1 Zucchini
-- 300g Hähnchen(-Schnitzel)
+- Öl zum anbraten
 
 
 directions:

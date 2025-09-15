@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Schnupfnudel-Hähnchen-Gemüsepfanne"
 image: schnupfnudeln-haehnchen-gemuese.jpeg
-tags: Mittagessen, Hünnchen, Gemüse
+tags: Hünnchen,Gemüse
 
 ingredients:
 - 400g Schupfnudeln

@@ -2,7 +2,7 @@
 layout: recipe
 title: Tofu-Pesto Pasta
 image: tofu-pesto.png
-tags: vegan, Tofu, Pasta
+tags: Vegan,Tofu,Pasta
 
 ingredients:
   - 500g De Cecco Lazanya
@@ -14,8 +14,8 @@ ingredients:
   - 30g Hefeflocken
   - 1 TL gemahlene geräucherte Paprika
   - 1/2 TL Chiliflocken
-  - Pfeffer
   - 6 Basilikumblätter
+  - Pfeffer
 
 directions:
   - Knoblauchzehen schälen und kleinhacken

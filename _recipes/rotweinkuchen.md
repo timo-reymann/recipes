@@ -10,13 +10,13 @@ ingredients:
 - 4 Eier
 - 125ml süßer Rotwein (für den Kuchen)
 - 1 TL Zimt
-- 1 Kaffelöffel Kakao
-- 3 TL geriebene Vollmilchschokolade
+- 1 TL Kakao
+- 3 TL Vollmilchschokolade (geriebene)
 - 1 Päckchen Backpulver
 - 1 Päckchen Vanillezucker
-- Fett für die Backform
 - 50ml süßer Rotwein (für die Glasur)
 - 150g Puderzucker
+- Butter (für die Backform)
 
 directions:
 - Zutaten zu einem Teig rühren

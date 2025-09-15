@@ -5,10 +5,10 @@ image: puten-gulasch.jpg
 tags: Low-Carb, Gulasch, Mittagessen
 
 ingredients:
+- 600g Putenbrust
 - 1 Zwiebel
 - 4 Karotten
 - 2 Paprika
-- 600g Putenbrust
 - 2 EL Tomatenmark
 - 200ml Mandelmilch
 - 2 EL Mandeljoghurt

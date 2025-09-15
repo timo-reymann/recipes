@@ -2,12 +2,12 @@
 layout: recipe
 title:  "Zucchini-Ricotta Galette"
 image: galette.jpeg
-tags: Mittagessen, Zucchini
+tags: Zucchini
 
 ingredients:
 - 240g Mehl
 - 80g Butter
-- 0.5 TL salz
+- 1/2 TL salz
 - 120g sour cream
 - 120ml Wasser
 - 4 TL limettensaft

@@ -2,14 +2,14 @@
 layout: recipe
 title: Rinder Gulasch
 image: rinder-gulasch.jpeg
-tags: Mittagessen, Rind, Wein
+tags: Rind,Wein
 
 ingredients:
 - 3 EL Butter
 - 4 große Zwiebeln
 - 3 EL Tomatenmark
 - 2 Karotten
-- 0.7l Rotwein
+- 700ml Rotwein
 - 1kg Rindfleisch, gewürfelt
 - 2 TL Paprikapulver edelsüß
 - 2 TL Paprikapulver rosenscharf

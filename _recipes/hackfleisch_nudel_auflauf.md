@@ -2,17 +2,17 @@
 layout: recipe
 title:  "Nudel-Hackfleisch-Auflauf"
 image: nudel-hackfleisch-auflauf.jpg
-tags: Mittagessen, Auflauf, Hackfleisch
+tags: Auflauf,Hackfleisch
 
 ingredients:
 - 500g Nudeln
 - 500g Hackfleisch
 - 200-300g Frischkäse
 - 1 Becher Creme Fraiche
-- 1/2 Tube Tomatenmark
+- 50g Tube Tomatenmark
 - 100g Käse
 - 2 Zwiebeln
-- 1/4 Liter Gemüsebrühe
+- 2590ml Gemüsebrühe
 - Salz
 - Pfeffer
 - italienische Kräuter

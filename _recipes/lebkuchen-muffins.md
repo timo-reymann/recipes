@@ -3,7 +3,7 @@ layout: recipe
 title:  "Lebkuchenmuffins"
 image: lebkuchen-muffin.jpg
 imagecredit: https://www.pinterest.com/pin/471259548492182435/
-tags: Backen, Weihnachtsgebäck, Gebäck, Muffins
+tags: Backen,Weihnachtsgebäck,Gebäck,Muffins
 
 ingredients:
 - 2 Tassen Mehl

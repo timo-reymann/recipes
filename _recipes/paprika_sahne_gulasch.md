@@ -3,7 +3,7 @@ layout: recipe
 title:  "Paprika Sahne Gulasch"
 image: puten-gulasch.jpeg
 imagecredit: https://zu-faul-zum-kochen.de/author/sven/
-tags: Mittagessen, Gulasch, Fleisch
+tags: Gulasch,Fleisch
 
 ingredients:
 - 500g Schweinegulasch
@@ -11,12 +11,12 @@ ingredients:
 - 200ml Sahne
 - 2 Paprika
 - 1 TL Paprikapulver
-- Pfeffer
-- Salz
 - 3 EL Tomatenmark
 - 2 (rote) Zwiebeln
-- Öl
 - 2 TL Mehl
+- Pfeffer
+- Salz
+- Öl
 
 directions:
 - Paprika waschen und in kleine Würfel schneiden

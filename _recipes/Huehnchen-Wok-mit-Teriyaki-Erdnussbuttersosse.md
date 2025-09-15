@@ -2,24 +2,24 @@
 layout: recipe
 title: Hühnchen-Wok mit Teriyaki-Erdnussbuttersoße
 image: huenhnchen-wok-mit-teriyaki-erdnussbuttersosse.jpg
-tags: Wok,Hühnchen
+tags: Wok,Hühnchen,Asiatisch
 
 ingredients:
-- 2 EL Mais
+- 500g Hühnchen
 - 100g Sojasprossen
+- 50ml Teriyaki-Soße
+- 150g Reis
+- 2 EL Mais
 - 1 Peperoni
 - 1 EL Erdnussbutter
-- 50ml Teriyaki-Soße
-- 500g Hühnchen
 - 1 Frühlingszwiebel
+- 1 TL Zucker
 - Koriander
 - Curry
 - Kreuzkümmel
 - Kurkuma
 - Paprikapulver
 - Prise Salz
-- 1 TL Zucker
-- Reis
 
 directions:
 - Reis parallel kochen lassen

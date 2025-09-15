@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Stockbrot"
 image: stockbrot.jpg
-tags: Sonstiges
+tags: Sonstiges,BBQ
 
 ingredients:
 - 1 kg Mehl

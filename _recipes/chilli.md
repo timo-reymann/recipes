@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Chilli"
 image: chilli.jpg
-tags: Mittagessen, Hackfleisch
+tags: Hackfleisch,scharf
 
 ingredients:
 - 500g Hackfleisch

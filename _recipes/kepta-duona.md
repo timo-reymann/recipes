@@ -5,13 +5,13 @@ image: kepta-duona.png
 tags: Snack
 
 ingredients:
-- 80g trockenes dunkles Brot (min. 5mm Scheiben)
-- Öl zum Anbraten
-- Knoblauchpulver
-- Salz
+- 80g Brot (dunkel; min. 5mm Scheiben)
 - 3 Knoblauchzehen
 - 25g Parmesan
 - 40g Mayonnaise
+- Öl zum Anbraten
+- Knoblauchpulver
+- Salz
 
 directions:
 - Brot mit Knoblauchzehen einreiben

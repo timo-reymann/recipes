@@ -2,25 +2,25 @@
 layout: recipe
 title: Tacos
 image: taco.png
-tags: mexikanisch,Hackfleisch,Mittagessen
+tags: Mexikanisch,Hackfleisch
 
 ingredients:
-  - Olivenöl
-  - Prise Salz
-  - 0.5 TL Pfeffer
   - 500g Hackfleisch
   - 500g stückige Tomaten
   - 200g Creme Fraiche
   - 100g Gouda
   - 200g Kidneybohnen
   - 100g Mais
-  - 0.5 Eisbergsalat
+  - 1/2 TL Pfeffer
+  - 1/2 Eisbergsalat
   - 12 Taco Shells
   - 1 Paprika
   - 2 Frühlingszwiebeln
   - 3 Knoblauchzehen
   - 1 TL Tomatenmark
   - 60g Tacogewürzmischung
+  - Olivenöl
+  - Prise Salz
 
 directions:
   - Salat waschen und in Streifen schneiden

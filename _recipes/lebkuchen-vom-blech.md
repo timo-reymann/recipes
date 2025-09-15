@@ -3,7 +3,7 @@ layout: recipe
 title:  "Lebkuchen vom Blech"
 image: lebkuchen-vom-blech.jpg
 imagecredit: https://www.kochrezepte.at/schnelle-weiche-lebkuchen-rezept-7535
-tags: Backen, Weihnachtsgebäck, Lebkuchen
+tags: Backen,Weihnachtsgebäck,Lebkuchen
 
 ingredients:
 - 350g Dinkel-Mehl

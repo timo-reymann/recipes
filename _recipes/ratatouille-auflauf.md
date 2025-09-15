@@ -2,16 +2,15 @@
 layout: recipe
 title: Ratatouille-Auflauf
 image: ratatouille-auflauf.jpeg
-tags: vegetarisch, Auflauf
+tags: Vegetarisch,Auflauf
 
 ingredients:
-  
+- 400g gehackte Tomaten
 - 1 Zwiebel
 - 2 Knoblauchzehen
 - 1 Aubergine
 - 1 Zucchini
 - 4 Strauch-Tomaten
-- 400g gehackte Tomaten
 - 1 TL Kräuter der Provence
 - 2 EL Olivenöl
 - 20g Tomatenmark

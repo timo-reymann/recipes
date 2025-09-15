@@ -3,7 +3,7 @@ layout: recipe
 title:  "Russischer Zupfkuchen"
 image: zupfkuchen.jpg
 imagecredit: https://oetker.de
-tags: Backen, Spiralform
+tags: Backen,Spiralform
 
 ingredients:
 - 400g Mehl

@@ -2,22 +2,22 @@
 layout: recipe
 title:  "Tortillias mit Hähnchen"
 image: haehnchen-tortillas.jpg
-tags: Mittagessen, Hähnchen, Mexikanisch
+tags: Hähnchen,Mexikanisch
 
 ingredients:
-- 6x Wraps
+- 6 Wraps
 - 400g Hähnchenbrustfilet
 - 300g Pflücksalat
 - 1/2 Gurke
 - 1 Paprika
-- Öl zum Anbraten
-- Joghurt
+- 50g Joghurt
+- 1 Knoblauchzehe (oder Knoblauchpulver)
 - Petersilie
 - Salz
 - Pfeffer
-- Knoblauch oder Knoblauchpulver
 - Prise Salz
-- Gewürze für das Hähnchenfleisch
+- Gewürze (für das Hähnchenfleisch)
+- Öl zum Anbraten
 
 directions:
 - Joghurt mit Salz, Pfeffer, Persilie und Knoblauch abschmecken und ziehen lassen

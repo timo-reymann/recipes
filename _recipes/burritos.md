@@ -2,17 +2,17 @@
 layout: recipe
 title:  "Burritos mit Hackfleischfüllung"
 image: burritos.jpg
-tags: Mittagessen, Hackfleisch
+tags: Hackfleisch,Mexikanisch
 
 ingredients:
-- 6 Tortillias
 - 500g Hackfleisch
+- 150g Käse
+- 6 Tortillias
 - 1 Paprika
 - 1 Dose Mais
 - 1 Dose Bohnen
-- Knoblauchsoße
 - 4 EL Tomatenmark
-- 150g Käse
+- Knoblauchsoße
 - Chillipulver
 - Pfeffer
 - Salz

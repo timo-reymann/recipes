@@ -2,15 +2,15 @@
 layout: recipe
 title: "Tortellini alla panna"
 image: tortellini_alla_panna.jpeg
-tags: Pasta,Tortellini,Mittagessen
+tags: Pasta,Tortellini
 
 ingredients:
+  - 400g vorgegarte Tortellini
   - 1 Zwiebel
   - 2 Knoblauchzehen
   - 20g butter
   - 100g Schinken
   - 200ml Sahne
-  - 400g vorgegarte Tortellini
   - 40g Parmesan
   - Muskatnuss
   - Salz

@@ -2,17 +2,17 @@
 layout: recipe
 title:  "Cevapcici"
 image: cevapcici.jpg
-tags: Mittagessen, Hackfleisch
+tags: Hackfleisch,Kroatisch
 
 ingredients:
-- Petersilie (optional)
 - 500g Hackfleisch
 - 1 Ei
 - 1 TL Paprikapulver
-- Salz
-- Pfeffer
-- Muskat
+- Prise Salz
+- Prise Pfeffer
+- Prise Muskat
 - Sonnenblumenöl
+- Petersilie (optional)
 
 directions:
 - Alle Zutaten gut verkneten

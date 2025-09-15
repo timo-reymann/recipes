@@ -2,18 +2,18 @@
 layout: recipe
 title:  "Wokgemüse mit Tofu in Kokossoße"
 image: wokgemuese_tofu_wok.jpg
-tags: Low-Carb, Tofu, Vegan, Mittagessen, Wok
+tags: Low-Carb Tofu,Vegan,Wok
 
 ingredients:
 - Speiseöl
 - 200g Wokgemüse
 - 400ml Kokosmilch
 - 150g geräucherter Tofu
+- 2 - 3 EL Teriyaki-Soße
 - Kurkuma
 - Koriander
 - Salz
 - Chilli
-- 2 - 3 EL Teriyaki-Soße
 
 directions:
 - Reis parallel kochen

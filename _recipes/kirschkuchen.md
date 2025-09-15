@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Kirschkuchen"
 image: kirschkuchen.jpg
-tags: Backen, Kuchen, Spiralform
+tags: Backen,Kuchen,Spiralform
 
 ingredients:
 - 500g Kirschen
@@ -10,8 +10,8 @@ ingredients:
 - 180g Zucker
 - 1 Prise Salz
 - 1 TL Zimt
-- 2 - 3 EL Cognac
-- Schale von 1 Zitrone oder Zitronat
+- 2-3 EL Cognac
+- 1 Zitronenschale (oder Zitronat)
 - 4 Eier
 - 125g Mehl
 - 1 TL Backpulver

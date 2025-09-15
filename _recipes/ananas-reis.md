@@ -2,15 +2,15 @@
 layout: recipe
 title:  "Ananas-Reis"
 image: ananas-reis.png
-tags: Reis,Hühnchen
+tags: Kochen,Reis,Hühnchen,Asiatisch
 
 ingredients:
-- 2 Zwiebeln
-- 300g Ananasstücke
 - 400g Hühnchen
+- 300g Ananasstücke
 - 350g Reis
 - 80g Gemüse nach Wahl
-- Pineapple Rice Spice Paste
+- 2 Zwiebeln
+- 1 Pineapple Rice Spice Paste
 
 directions:
 - Ananasstücke abtropfen lassen

@@ -2,21 +2,21 @@
 layout: recipe
 title:  "Küchel"
 image: kuechel.png
-tags: Backen, Bayerisch
+tags: Backen,Bayrisch
 
 ingredients:
 - 2,5 kg Mehl
+- 600 g Zucker
+- 375 g Butter
+- 250 ml Arak
 - 5 Würfel Hefe
 - 1 Päckchen Backpulver
 - 5 TL Salz
-- 600g Zucker
-- 375g Butter
 - 5 Päckchen Vanille-Zucker
 - 1 Citro-Back
 - 1 Fläschchen Zitronenaroma
-- 250 ml Arak
 - Milch nach Bedarf
-- 5l Fett oder entsprechend Rama
+- 5 l Fett oder entsprechend Rama
 
 directions:
 - Zutaten zu einem Teig zusammenrühren und einige Stunden im Ofen gehen lassen

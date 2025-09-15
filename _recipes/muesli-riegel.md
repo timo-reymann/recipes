@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Müsliriegel"
 image: muesli-riegel.jpg
-tags: Süßes
+tags: Snack,Backend
 
 ingredients:
 - 50g Butter

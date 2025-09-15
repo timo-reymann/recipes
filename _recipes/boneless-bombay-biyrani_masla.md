@@ -2,20 +2,20 @@
 layout: recipe
 title:  "Boneless Biyrani Masala"
 image: boneless-biyrani-masala.png
-tags: Mittagessen, Hühnchen, Indisch
+tags: Hühnchen,Indisch
 
 ingredients:
 - 1 Packung MDH Bomby Biryani masala (oder vergleichbare Gewürzmischung; alternativ selbst gemischt)
 - 250g Basmati-Reis
 - 500g Hähnchenbrust
 - 25ml Zitronensaft
-- Salz
+- 200g Cherry-Tomaten
 - 100g Joghurt
 - 150g Zwiebeln
 - 200g Kartoffeln
 - 10 EL Rapsöl
-- 200g Cherry-Tomaten
 - 3 Tassen Wasser
+- Prise Salz
 
 directions:
 - Hähnchen in grobe Stücke schneiden (ca. 1 - 1,5 cm)

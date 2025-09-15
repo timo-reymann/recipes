@@ -2,18 +2,18 @@
 layout: recipe
 title: Gemüse-Erdnuss-Eintopf mit Putenwürfeln
 image: gemuese-erdnuss-eintopf.jpg
-tags: Mittagessen, Pute
+tags: Pute,Eintopf
 
 ingredients:
 - 400g Putenbrustfilets
+- 125g Reis
+- 50g geröstete Erdnüsse
 - 1 rote Zwiebel
 - 1 Karotte
 - 300g Kartoffeln
 - 100g Cherry-Tomaten
 - 1 Paprika
 - 200ml Brühe
-- 50g geröstete Erdnüsse
-- 125g Reis
 - Salz
 - Pfeffer
 - Koriander

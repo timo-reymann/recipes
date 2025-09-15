@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Gemüse-Wok mit Tofu"
 image: gemuese_wok_tofu.jpg
-tags: Low-Carb, Tofu, Vegan, Mittagessen
+tags: Low-Carb,Tofu,Vegan,Asiatisch
 
 ingredients:
 - 2 Karotten

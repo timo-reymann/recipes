@@ -2,9 +2,12 @@
 layout: recipe
 title: Hoisin-Nudeln mit Chicken und Gemüse
 image: hoisin_nudeln_chicken.jpg
-tags: Nudeln, Mittagessen, Hühnchen, Chicken, Wok
+tags: Nudeln,Hühnchen,Chicken,Wok,Asiatisch
 
 ingredients:
+- 400g Wokgemuse
+- 400g Hühnchen
+- 250g Bandnudeln
 - 4 El Hoisin
 - 1 El Siracha
 - 3 El Sojasauce
@@ -12,11 +15,8 @@ ingredients:
 - 1 TL Chiliflocken
 - 1 Knoblauchzehe
 - 2 TL gerösteter Sesam
-- 400g Wokgemuse
-- 400g Hühnchen
-- Sesamöl
 - 1 Tl Teriyakisauce
-- 250g Bandnudeln
+- Sesamöl
 
 directions:
 - Knoblauchzehe kleinhacken

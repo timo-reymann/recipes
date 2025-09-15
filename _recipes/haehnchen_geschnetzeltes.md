@@ -3,14 +3,14 @@ layout: recipe
 title:  "Hänchen Geschnetzeltes mit Curry-Sahne-Soße"
 image: haehnchengeschnetzeltes.jpg
 imagecredit: https://emmikochteinfach.de/haehnchengeschnetzeltes-curry-sahne-sosse/#wprm-recipe-container-435
-tags: Mittagessen, Hähnchen
+tags: Hähnchen
 
 ingredients:
 - 600g Hähnchenbrustfilet
+- 500ml Gemüsebrühe
+- 200ml Sahne
 - 1 Zwiebel
 - 2 TL Curry
-- 200ml Sahne
-- 500ml Gemüsebrühe
 - 1 EL Mehl
 - 2 EL Öl
 - Prise Salz

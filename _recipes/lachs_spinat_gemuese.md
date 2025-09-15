@@ -2,16 +2,16 @@
 layout: recipe
 title:  "Lachs mit Spinat-Gemüse"
 image: lachs-spinat-gemuese.jpg
-tags: Low-Carb, Fisch, Mittagessen
+tags: Low-Carb,Fisch
 
 ingredients:
+- 2 Lachsfilets
+- 200g Blattspinat
 - 1/2 rote Zwiebel
 - 3 Karotten
-- 2 Lachsfilets
 - 1 Zitrone
 - 60g Cherry-Tomaten
 - Knoblauchpulver
-- 200g Blattspinat
 - Salz
 - Pfeffer
 - Rosmarin

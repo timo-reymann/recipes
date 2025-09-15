@@ -14,12 +14,12 @@ ingredients:
 - 1 TL Senf
 - 1 EL honig
 - 1 TL Sesamöl
-- Spritzer Zitronensaft
-- Prise Salz
 - 1 TL Pfeffer
 - 3 EL Mehl
 - 1 TL Chiliflocken
 - 1 TL geräuchertes Paprikapulver
+- Spritzer Zitronensaft
+- Prise Salz
 - Öl
 
 directions:

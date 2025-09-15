@@ -2,18 +2,18 @@
 layout: recipe
 title:  "Hamburger Sandkuchen"
 image: sandkuchen.jpg
-tags: Backen, Kuchen
+tags: Backen,Kuchen
 
 ingredients:
-- 250g Butter oder Margarine
+- 250g Butter (oder Margarine)
 - 250g Zucker
 - 1 Päckchen Vanillezucker
-- Abgeriebene Schale einer hable Zitrone oder Zitronat
 - 4 Eier
-- 1 gest.r. TL Backpulver
+- 1 TL Backpulver
 - 50g Mehl
 - 200g Speisestärke
-- 1 - 2 EL Rum
+- 1-2 EL Rum
+- 1/2 Zitronenschale (oder Zitronat)
 
 directions:
 - Fett, Zucker, Vanillezucker und Zitronenschale gut verrühren

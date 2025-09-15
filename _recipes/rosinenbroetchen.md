@@ -3,18 +3,18 @@ layout: recipe
 title:  "Rosinenbrötchen"
 image: rosinenbroetchen.jpg
 imagecredit: https://volkermampft.de/aromatisch-fluffige-rosinenbroetchen-zum-fruehstueck-oder-als-snack/
-tags: Backen, Gebäck
+tags: Backen,Gebäck
 
 ingredients:
+- 500g Mehl
 - 250g Magerquark
 - 8 EL Milch
 - 6 EL Öl
 - 100g Zucker
 - 1 Ei
-- 0,5 TL Salz
+- 1/2 TL Salz
 - 1 Päckchen Vanillezucker
 - 1 Päckchen Backpulver
-- 500g Mehl
 - 100g Rosinen
 - Rum (optional)
 

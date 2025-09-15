@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Tassen Kirschkuchen"
 image: tassen-kirschkuchen.jpg
-tags: Backen, Kuchen, Blechkuchen
+tags: Backen,Kuchen,Blechkuchen
 
 ingredients:
 - 1 Glas Sauerkirschen
@@ -12,8 +12,8 @@ ingredients:
 - 1 Päckchen Vanillezucker
 - 1 Tasse Öl
 - 1 Tasse Apfelsaft
-- Fett für das Blech
-- Puderzucken zum Bestäuben
+- Fett (für das Blech)
+- Puderzucker (zum Bestäuben)
 
 directions:
 - Den Ofen auf 200 Grad vorheizen

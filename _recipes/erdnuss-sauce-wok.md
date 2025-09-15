@@ -2,10 +2,13 @@
 layout: recipe
 title: Erdnuss-Sauce Wok
 image: erdnuss-sauce-wok.png
-tags: Mittagessen, Hühnchen, Chicken, Wok
+tags: Hühnchen,Chicken,Wok,Asiatisch
 
 ingredients:
+- 300g Chicken
+- 300g Wokgemuse
 - 200g Reis
+- 200ml Kokosnussmilch
 - 4 EL Erdnussbutter
 - 2 EL Sojasauce
 - 2 EL Teriyaki Soße
@@ -15,9 +18,6 @@ ingredients:
 - Kurkuma
 - Ingwerpulver
 - Knoblauchpulver oder frisch gehackt
-- 300g Chicken
-- 300g Wokgemuse
-- 200ml Kokosnussmilch
 
 directions:
 - Sojasauce, Teriyaki und Chicken mit 1 EL Peanutbutter anrösten

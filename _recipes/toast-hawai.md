@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Toast Hawaii"
 image: toast-hawaii.jpg
-tags: Mittagessen,einfach
+tags: einfach,Snack
 
 ingredients:
 - 9 Scheiben Toast

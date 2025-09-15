@@ -5,17 +5,17 @@ image: hackfleisch-thunfisch-pasta.jpeg
 tags: Pasta,Hackfleisch,Thunfisch
 
 ingredients:
+  - 400g Hackfleisch
   - 250g Pasta
+  - 100g Käse
   - 1 Pesto nach Wahl
-  - 400g Hack
-  - Dose Thunfisch
+  - 1 Dose Thunfisch
   - 400g passiert Tomaten
   - 4 EL Tomatenmark
   - Olivenöl
   - Rostzwiebeln
   - Pfeffer
   - geräuchte Paprikapulver
-  - Käse
 
 directions:
   - Pasta al dente kochen lassen

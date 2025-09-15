@@ -2,13 +2,13 @@
 layout: recipe
 title: Zucchini Butter Pasta
 image: butter-zucchini-pasta.jpg
-tags: Mittagessen,Pasta
+tags: Pasta
 
 ingredients:
-- 1 TL Salz
-- Pfeffer
 - 250g Nudeln (Spaghetti, Fusilli)
 - 2 Zucchini
+- 1 TL Salz
+- Pfeffer
 - 80g Butter
 - 4 Zehen Knoblauch
 - 45g Hartkäse

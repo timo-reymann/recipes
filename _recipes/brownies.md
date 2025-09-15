@@ -3,16 +3,16 @@ layout: recipe
 title:  "Brownies mit Walnüssen"
 image: brownies.png
 imagecredit: https://www.gutekueche.at/walnuss-brownies-rezept-32388
-tags: Backen, Blechkuchen
+tags: Backen,Blechkuchen
 
 ingredients:
 - 100g Schokolade
 - 100g Mehl
-- 1 TL Backpulver
+- 125g Zucker
 - 50g Walnüsse
 - 100g Butter
+- 1 TL Backpulver
 - 4 Eier
-- 125g Zucker
 
 directions:
 - Schokolade grob hacken und in eine Schlüssel geben

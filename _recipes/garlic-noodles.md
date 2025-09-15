@@ -2,16 +2,16 @@
 layout: recipe
 title: Garlic Noodles
 image: garlic-noodles.jpeg
-tags: Pasta, Knoblauch
+tags: Pasta,Knoblauch
 
 ingredients:
+- 150g gekochte Nudeln
 - 30g Parmesan
-- 2 Frühlingszwiebeln
-- 3 Knoblauchzehen
 - 2 TL Zucker
 - 2 EL Butter
 - 2 EL Sojasoße
-- 150g gekochte Nudeln
+- 2 Frühlingszwiebeln
+- 3 Knoblauchzehen
 
 directions:
 - Knoblauchzehen schälen und fein hacken

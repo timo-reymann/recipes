@@ -3,19 +3,19 @@ layout: recipe
 title:  "Apfelkuchen"
 image: apfelkuchen.jpg
 imagecredit: https://www.kidsrezepte.de/apfelkuchen/
-tags: Backen, Springform
+tags: Backen,Springform
 
 ingredients:
-- 125g Butter
-- 125g Zucker
-- 2 - 3 Eier
-- Schale einer Zitrone oder Zitronat
-- 1 Prise Salz
+- 750g Äpfel
 - 200g Mehl
 - 2 TL Backpulver
+- 125g Butter
+- 125g Zucker
+- 20g Puderzucker zum Bestäuben (optional)
+- 1 Prise Salz
+- 2-3 Eier
+- 1 Schale einer Zitrone oder Zitronat
 - 4 EL Milch
-- 750g Äpfel
-- Puderzucker zum Bestäuben (optional)
 
 directions:
 - Springform mit Butter einfetten

@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Pad Thai"
 image: pad-thai.jpeg
-tags: Tofu, Asiatisch
+tags: Tofu,Asiatisch
 
 ingredients:
 - 100g Tofu

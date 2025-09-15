@@ -2,14 +2,16 @@
 layout: recipe
 title:  "'Hangover'-Geschnetzeltes"
 image: hangover_geschnetzeltes.jpg
-tags: Mittagessen
+tags: Fleisch
 
 ingredients:
 - 250g Fleisch (in Streifen)
 - Tortillia-Chip-Reste
 - Toritillia-Dip (nach Belieben)
 - Knoblauchzehen oder pulver
-- Salz, Pfeffer, Gyrosgewürz
+- Salz
+- Pfeffer
+- Gyrosgewürz
 - Prise Zucker
 - Honig
 - Sonnenblumenöl

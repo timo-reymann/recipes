@@ -6,13 +6,12 @@ image: pancakes.jpg
 tags: Mittagessen, Süßes
 
 ingredients:
-- 5 Eier
 - 250g Mehl
 - 600ml Milch
+- 5 Eier
 - Prise Salz
 - 3 EL Öl
-- Öl zum Ausbraten
-
+- Öl (zum Ausbraten)
 
 directions:
 - Zuerst das Ei aufschlagen

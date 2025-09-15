@@ -6,16 +6,16 @@ tags: Hackfleisch, Mittagessen, Low-Carb
 
 ingredients:
 - 500g Hackfleisch
-- 1/2 Tube Tomatenmark
+- 50g Tomatenmark
 - 1 Bund Frühlingszwiebeln
 - 1 Bund Lauchzwiebeln
 - 100ml Milch
+- 100g Feta-Käse
+- 1 Paprika
 - Salz
 - Pfeffer
 - Koriander
 - Paprikapulver
-- 1 Feta-Käse
-- 1 Paprika
 
 directions:
 - Paprika in Würfel schneiden
