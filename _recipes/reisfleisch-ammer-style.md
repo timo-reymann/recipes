@@ -1,8 +1,6 @@
 ---
 layout: recipe
-title: Reisfleisch Ammer-Style
-image: images/reisfleisch-ammer-style.webp
-tags:
+title: Reisfleisch Ammer-Styletags:
 
 ingredients:
   -  1 Stück Rote Zwiebel Gerne auch normale Zwiebel
