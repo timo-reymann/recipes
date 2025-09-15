@@ -18,7 +18,7 @@ ingredients:
   -  Kreuzkümmel
   -  Kurkuma
   -  Paprikapulver
-  -  1  Salz
+  -  1 Prise Salz
 
 
 directions:
