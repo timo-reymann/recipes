@@ -2,7 +2,7 @@
 layout: recipe
 title: Joppie-Schupfnudeln
 image: images/joppie-schupfnudeln.webp
-tags:
+tags: Vegetarisch
 
 ingredients:
   -  200 g italienische Gemüsemischung
