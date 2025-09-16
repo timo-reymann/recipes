@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Joppie-Schupfnudeln
-image: images/joppie-schupfnudeln.webp
+image: joppie-schupfnudeln.webp
 tags: Vegetarisch
 
 ingredients:
