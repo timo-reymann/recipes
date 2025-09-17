@@ -22,9 +22,9 @@ ingredients:
   -  1 L passierte Tomaten
   -  1 Dose gehackte Tomaten
   -  1 Bund Basilikum
-  -  0 Salz
+  -  Salz
   -  Pfeffer
-  -  0 natives Olivenöl extra
+  -  natives Olivenöl extra
 
 directions:
   - Weißbrot vierteln und in der Milch einweichen lassen
