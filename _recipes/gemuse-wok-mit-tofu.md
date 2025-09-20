@@ -12,11 +12,11 @@ ingredients:
   -  250 g Räuchertofu
   -  100 ml Kokosmilch
   -  1 Stück Zucchini
+  -  2 Zentimeter Ingwerwurzel frisch
   -  Pfeffer
   -   Salz
-  -  2 Zentimeter Ingwerwurzel frisch
-  -  2 Prise MSG
   -  1 TL Chilliflocken
+  -  2 Prise MSG
 
 directions:
   - Karotten schälen und in ca 4cm Stifte schneiden 
