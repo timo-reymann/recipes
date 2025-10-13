@@ -6,13 +6,13 @@ tags: Tofu, Asiatisch, omnivor, asiatisch
 
 ingredients:
   -  100 g Tofu
-  -  100 g Garnele
-  -  150 g Reisnudel
-  -  100 g Sojasprosse oder alternativ 30g Bambussprossen
+  -  100 g Garnelen
+  -  150 g Reisnudeln
+  -  100 g Sojasprossen oder alternativ 30g Bambussprossen
   -  1 TL Limettensaft
   -  2 Ei
   -  1 EL Kokosöl
-  -  0 Packung Lobo Pad Thai Stir Fry Sauce
+  -  1 Packung Lobo Pad Thai Stir Fry Sauce
 
 directions:
   - Reisnudeln 5 Minuten in kochenendem Wasser erhitzen
