@@ -2,7 +2,7 @@
 layout: recipe
 title: Butter Chicken
 image: butter-chicken.webp
-tags:,
+tags: Einfach, Indisch, indisch, omnivor
 
 ingredients:
   -  1 Packung Butter-Chicken Gewürzpaste
