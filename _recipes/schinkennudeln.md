@@ -2,7 +2,7 @@
 layout: recipe
 title: Schinkennudeln
 image: schinkennudeln.webp
-tags:,
+tags: Einfach, Nudeln, omnivor, deutsch
 
 ingredients:
   -  50 g Butter
