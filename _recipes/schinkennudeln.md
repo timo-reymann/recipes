@@ -28,7 +28,7 @@ directions:
 ---
 
 
-
+Diese Schinkennudeln sind ein schnelles, herzhaftes Gericht: Al dente gekochte Fusili werden mit einer cremigen Sahnesauce, würzigem Kochschinken und fein angebratenen Zwiebeln und Knoblauch kombiniert. Verfeinert mit geräuchertem Paprikapulver und Käse entsteht ein unwiderstehliches, sättigendes Nudelgericht. Perfekt, wenn es mal schnell gehen muss.
 
 
 Ergibt ca. 4 Portionen.
