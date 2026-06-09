@@ -2,7 +2,7 @@
 layout: recipe
 title: Ananas-Reis
 image: ananas-reis.webp
-tags: Chicken, Reis, omnivor, asiatisch
+tags:, omnivor, asiatisch
 
 ingredients:
   -  2 Zwiebel
@@ -28,4 +28,9 @@ directions:
   - Alles gut durchmischen und kurz anbraten
 ---
 
+
+Ein lebendiges, süß-herzhafte Gericht! Fluffiger Reis wird mit saftigen Ananasstücken, Gewürzen und Gemüse zu einem besonderen Erlebnis.
+
+
+Ergibt ca. 6 Portionen.
 
