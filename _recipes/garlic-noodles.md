@@ -2,16 +2,16 @@
 layout: recipe
 title: Garlic Noodles
 image: garlic-noodles.webp
-tags: Pasta, Knoblauch, vegetarisch, asiatisch
+tags: Knoblauch, vegetarisch, asiatisch, kochen
 
 ingredients:
-  -  30 g Parmesan
+  -  31 g Parmesan
   -  4 Stück Frühlingszwiebel
   -  5 Zehe Knoblauch
   -  2 EL Butter
   -  2 EL Sojasauce
   -  2 EL süße Sojasauce
-  -  150 g Nudel gekochte
+  -  200 g Linguine alternativ Spaghetti oder Taigatelle 
 
 directions:
   - Knoblauchzehen schälen und fein hacken
@@ -24,4 +24,9 @@ directions:
   - Parmesam dazugeben und ordentlich unterheben
 ---
 
+
 Als Nudeln eignen sich Bandnudeln, Spaghetti, Tagatelle etc.
+
+
+Ergibt ca. 2 Portionen.
+
