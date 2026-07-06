@@ -2,7 +2,7 @@
 layout: recipe
 title: Ananas-Reis
 image: ananas-reis.webp
-tags:, omnivor, asiatisch
+tags: Hühnchen, Digest:Moderate, Calories:Hearty, omnivor, asiatisch
 
 ingredients:
   -  2 Zwiebel
