@@ -2,7 +2,6 @@
 layout: recipe
 title: Scampi Pasta
 image: scampi-pasta.webp
-tags:,
 
 ingredients:
   -  500 g Tagliatelle alternativ Spaghetti
